@@ -75,7 +75,7 @@ Because this is the first time you are running a request as a delegated authenti
 3. Scroll down on the right and click **Get New Access Token**.
 4. Sign in with your developer tenant adminstrator account.
 5. Click **Proceed**, and then click the **Use Token** button.
-6. On the botton right of the dialog, click **Update**.
+6. On the bottom right of the dialog, click **Update**.
 
 You now have a valid access token to use for delegated requests.
 
